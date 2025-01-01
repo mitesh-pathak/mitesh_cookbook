@@ -1,0 +1,20 @@
+
+.codegpt
+# Ignore virtual environment directory
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore other generated files
+*.log
+*.tmp
